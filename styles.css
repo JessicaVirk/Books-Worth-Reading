@@ -1,0 +1,15 @@
+h1 {
+color:purple;
+}
+
+body{
+background-color: lightgray;
+    font-family: 'Sansita Swashed', cursive; 
+    text-align: center;
+  
+}
+
+img {
+    width: 150px;
+    margin: 10px;
+}
